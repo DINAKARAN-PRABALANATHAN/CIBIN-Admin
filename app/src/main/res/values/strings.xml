@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CibinAdmin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="status">
+        <item> Pending</item>
+        <item> Processing</item>
+        <item> Verified</item>
+        <item> Rejected</item>
+    </string-array>
+</resources>
